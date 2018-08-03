@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorIndigo">#0000FF</color>
+    <color name="colorDarkerGrey">#2d2d2d</color>
+    <color name="colorCardIcon">#47000000</color>
+    <color name="colorLine">#25000000</color>
+
+    <color name="colorPrimaryApp">#F57920</color>
+    <color name="colorPrimaryDarkApp">#717a84</color>
+    <color name="colorAccentApp">#2FC7F7</color>
+</resources>

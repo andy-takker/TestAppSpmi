@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPMI</string>
+    <string name="prompt_email">Почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_login">Вход</string>
+    <string name="error_field_required">Это поле необходимо ввести</string>
+    <string name="error_incorrect_password">Пароль не верен</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_email">Логин или почта неправильная</string>
+    <string name="error_invalid_email">Почта указана не верно</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="title_activity_login">Вход</string>
+    <string name="title_activity_chats">Сообщения</string>
+    <string name="title_activity_note">Создать запись</string>
+    <string name="title_activity_main">Новости</string>
+    <string name="main_drawer_news">Новости</string>
+    <string name="main_drawer_messages">Сообщения</string>
+    <string name="main_drawer_settings">Настройки</string>
+    <string name="main_drawer_info">Помощь</string>
+    <string name="main_drawer_exit">Выход</string>
+    <string name="navigation_drawer_open">Открытие навигационного меню</string>
+    <string name="navigation_drawer_close">Закрытие навигационного меню</string>
+    <string name="nav_header_title">Ваше Имя</string>
+    <string name="nav_header_subtitle">имя.пользователя@spmi.ru</string>
+    <string name="nav_header_desc">Навигационное меню</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_add_note">Добавить</string>
+    <string name="pref_header_general">Основные</string>
+    <string name="pref_title_vibrate">Вибро</string>
+    <string name="pref_ringtone_silent">Без звука</string>
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_title_new_message_notifications">Уведомления о сообщении</string>
+    <string name="pref_header_notifications">Уведомления</string>
+    <string name="pref_title_system_sync_settings">Системные настройки синхронизации</string>
+    <string name="pref_title_sync_frequency">Частота синхронизации</string>
+    <string name="pref_header_data_sync">Синхронизация и данные</string>
+    <string name="pref_default_display_name">Имя Пользователя</string>
+    <string name="pref_title_display_name">Отображаемое имя</string>
+    <string name="pref_title_social_recommendations">Разрешать рекоммендации</string>
+    <string name="pref_description_social_recommendations">Рекомендации для общения с людьми на основе истории сообщений</string>
+    <string name="pref_title_add_friends_to_messages">Добавление друзей в сообщения</string>
+</resources>
